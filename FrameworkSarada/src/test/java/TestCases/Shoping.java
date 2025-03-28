@@ -15,7 +15,7 @@ import utilities.readData;
 public class Shoping  extends BaseTest{
 	
 	
-	readData rd;
+	readData rd; // www.github.com
 	
 	@Test
 	public void Shop_backpage_001() {
